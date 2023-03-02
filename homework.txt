@@ -6,3 +6,6 @@ Tuesday:
 1. Gravity and magnetic exploration
 2. Ecology
 3. Structural geology
+
+Wednesday:
+1. Computational math
