@@ -13,3 +13,8 @@ Wednesday:
 Thursday:
 1.Jurisprudence
 2.Hydrogeology
+
+Friday:
+1. Informatics
+2. Gravity and magnetic exploration
+3. TFCP
